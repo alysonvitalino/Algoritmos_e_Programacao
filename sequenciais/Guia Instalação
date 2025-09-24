@@ -1,0 +1,9 @@
+Instalar MinGW
+    sudo apt install gcc-mingw-w64
+
+Compilar Programa
+    g++ NOME DO ARQUIVO -o NOME DO ARQUIVO DE SAIDA
+
+Rodar Programa
+    ./NOME DO ARQUIVO DE SAIDA
+
